@@ -1,0 +1,106 @@
+Starting PICCA CF job
+Date: Sun 02 Nov 2025 10:00:57 AM PST
+Run directory: /pscratch/sd/o/otilia/picca_runs/cf_full_44749729
+Output file: /pscratch/sd/o/otilia/picca_runs/cf_full_44749729/cf_all.fits
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+slurmstepd: error: Detected 1 oom_kill event in StepId=44749729.0. Some of the step tasks have been OOM Killed.
+srun: error: nid006921: task 13: Out Of Memory
+srun: Terminating StepId=44749729.0
+slurmstepd: error: *** STEP 44749729.0 ON nid006921 CANCELLED AT 2025-11-02T18:04:28 ***
+WARNING: Output file not found. Check job logs.
+Finished PICCA CF job on Sun 02 Nov 2025 10:04:31 AM PST

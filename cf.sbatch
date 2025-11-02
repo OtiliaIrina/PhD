@@ -5,8 +5,8 @@
 #SBATCH --time=02:00:00  # 2 hours
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=32
-#SBATCH --job-name=cf_with_contamination
-#SBATCH --output=/global/u1/o/otilia/PhD/test/cf_with_contamination_%j.out
+#SBATCH --job-name=cf
+#SBATCH --output=/global/u1/o/otilia/PhD/test/cf_%j.out
 
 # Load Python and activate your Picca environment
 module load python
