@@ -1,0 +1,40 @@
+Starting PICCA CF job
+Date: Sun 02 Nov 2025 01:54:26 PM PST
+Run directory: /pscratch/sd/o/otilia/picca_runs/cf_full_44756159
+Output file: /pscratch/sd/o/otilia/picca_runs/cf_full_44756159/cf_all.fits
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+
+
+
+
+
+
+
+
+
+done, npix = 1248
+picca_cf.py - Time reading data: 9.569 minutes
+
+done, npix = 1248
+picca_cf.py - Time reading data: 9.632 minutes
+
+done, npix = 1248
+picca_cf.py - Time reading data: 9.725 minutes
+
+done, npix = 1248
+picca_cf.py - Time reading data: 9.770 minutes
+computing xi: 0.0%
+computing xi: 0.0%
+computing xi: 0.0%
+computing xi: 0.0%

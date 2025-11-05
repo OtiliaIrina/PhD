@@ -2,7 +2,7 @@
 
 #SBATCH -C cpu
 #SBATCH --qos=regular
-#SBATCH --time=00:01:00
+#SBATCH --time=01:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=32
 #SBATCH --job-name=picca_cf

@@ -1,0 +1,46 @@
+Starting PICCA CF job
+Date: Sun 02 Nov 2025 12:34:46 PM PST
+Run directory: /pscratch/sd/o/otilia/picca_runs/cf_full_44750918
+Output file: /pscratch/sd/o/otilia/picca_runs/cf_full_44750918/cf_all.fits
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+ATTENTION: Analysis is not blinded!
+Om=0.315, Or=0.0, wl=-1.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+z_min_sources 0.0
+slurmstepd: error: Detected 1 oom_kill event in StepId=44750918.0. Some of the step tasks have been OOM Killed.
+srun: error: nid007127: task 1: Out Of Memory
+srun: Terminating StepId=44750918.0
+slurmstepd: error: *** STEP 44750918.0 ON nid007127 CANCELLED AT 2025-11-02T20:40:04 ***
+WARNING: Output file not found. Check job logs.
+Finished PICCA CF job on Sun 02 Nov 2025 12:40:07 PM PST
